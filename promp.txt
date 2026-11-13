@@ -1,0 +1,12 @@
+promp versi 1.1
+Mode fullscreen tapi taskbar bisa kelihatan
+format .py rubah jadi .pyw
+untuk settingan data. simpan berupa nama "personal_rutin.cfg" agar aplikasi tersebut bisa di gunakan ke setiap device lain tanpa setting setting
+
+perbaikan UI
+Tulisan "Personal Rutin" di atas bisa di custome nama ya itu di "Pengaturan"
+Perbaikan tampilan kalender. background transparant full. 
+bagian kanan side APLIKASI. bagi 2. bagian atas support icon exe, py, .pyw dll. nah bagian bawah itu khusus "Aplikasi Python" menampilkan Hanya Nama Aplikasinya saja dengan background bisa di custome, dan width 80%
+Untuk bagian Tata letak. kiri, tendah, atas, bawah, kanan, kerangka nya bisa di custome oleh user tinggal di geser geser oleh mouse tapi bisa di kunci juga.
+untuk di tengah bagian kalender itu bisa di tambahkan, bisa di tutup, bisa di kecilin ukuran kelnder dan kerangka nya.
+untuk bagian di kiri. bagian Tampilan Ceklis Kalo bisa di percantik / enak di pandang. dan ketika user sudah di tandai background hijau transparant.
